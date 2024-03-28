@@ -5,4 +5,4 @@ from ui.pages.base_page import BasePage
 class EventsPage(BasePage):
 
     locators = basic_locators.EventsPageLocators()
-    url = 'https://www.python.org/events/'
+    url = 'https://park.vk.company/feed/'
